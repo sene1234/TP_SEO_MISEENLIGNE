@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /panier/
+Disallow: /recherche/
+Disallow: /factures-pdf/
+
+# Autoriser explicitement le blog
+Allow: /blog/
+
+# Indiquer l'emplacement de la carte du site pour Google
+Sitemap: https://www.monsite.sn/sitemap.xml

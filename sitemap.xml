@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Page 1 du blog -->
+    <url>
+        <loc>https://www.monsite.sn/blog/visiter-casamance</loc>
+        <lastmod>2025-06-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 2 du blog -->
+    <url>
+        <loc>https://www.monsite.sn/blog/wax-tendances-2025</loc>
+        <lastmod>2025-05-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Page 3 du blog -->
+    <url>
+        <loc>https://www.monsite.sn/blog/guide-livraison-dakar</loc>
+        <lastmod>2025-04-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+</urlset>
